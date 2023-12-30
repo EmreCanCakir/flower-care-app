@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Papatya",
+    "image": "assets/papatya.jpg",
+    "description": "Güzel bir beyaz çiçek...",
+    "soilPreference": "Humuslu toprak",
+    "temperaturePreference": "20-25 °C",
+    "wateringFrequency": "Haftada bir",
+    "origin": "Avrupa",
+    "latinName": "Bellis perennis",
+    "isFavorite": false
+  },
+  {
+    "name": "Gül",
+    "image": "assets/gul.webp",
+    "description": "Kırmızı, pembe veya beyaz renklerde güzel kokulu çiçekler.",
+    "soilPreference": "İyi drenajlı topraklar",
+    "temperaturePreference": "18-24 °C",
+    "wateringFrequency": "Toprak yüzeyi kuruduğunda",
+    "origin": "Orta Doğu",
+    "latinName": "Rosa",
+    "isFavorite": false
+  },
+  {
+    "name": "Lavanta",
+    "image": "assets/lavanta.jpg",
+    "description": "Uzun boylu, mor renkli ve güzel kokulu çiçekler.",
+    "soilPreference": "Kumlu, iyi drenajlı topraklar",
+    "temperaturePreference": "20-30 °C",
+    "wateringFrequency": "Toprak yüzeyi kurudukça",
+    "origin": "Akdeniz",
+    "latinName": "Lavandula",
+    "isFavorite": false
+  },
+  {
+    "name": "Orkide",
+    "image": "assets/orkide.jpg",
+    "description": "Egzotik ve çeşitli renklerde çiçeklere sahip bitki.",
+    "soilPreference": "Havanın iyi dolaştığı orkide toprakları",
+    "temperaturePreference": "18-25 °C",
+    "wateringFrequency": "Toprak yüzeyi hafifçe nemli olduğunda",
+    "origin": "Tropikal bölgeler",
+    "latinName": "Orchidaceae",
+    "isFavorite": false
+  },
+  {
+    "name": "Menekşe",
+    "image": "assets/menekse.jpg",
+    "description": "Zarif mor renkli çiçeklere sahip bir bitki.",
+    "soilPreference": "İyi drenajlı topraklar",
+    "temperaturePreference": "15-20 °C",
+    "wateringFrequency": "Toprak yüzeyi kurudukça",
+    "origin": "Avrupa",
+    "latinName": "Viola",
+    "isFavorite": false
+  },
+  {
+    "name": "Zambak",
+    "image": "assets/zambak.jpg",
+    "description": "Büyük ve gösterişli beyaz çiçeklere sahip bir bitki.",
+    "soilPreference": "Kumlu, iyi drenajlı topraklar",
+    "temperaturePreference": "20-30 °C",
+    "wateringFrequency": "Toprak yüzeyi kurudukça",
+    "origin": "Asya",
+    "latinName": "Lilium",
+    "isFavorite": false
+  },
+  {
+    "name": "Sardunya",
+    "image": "assets/sardunya.jpg",
+    "description": "Renkli ve hoş kokulu çiçeklere sahip bir bitki.",
+    "soilPreference": "İyi drenajlı topraklar",
+    "temperaturePreference": "18-25 °C",
+    "wateringFrequency": "Toprak yüzeyi kurudukça",
+    "origin": "Güney Afrika",
+    "latinName": "Pelargonium",
+    "isFavorite": false
+  },
+  {
+    "name": "Mimoza",
+    "image": "assets/mimoza.jpg",
+    "description": "Sarı püsküllerle süslenmiş bir bahar çiçeği.",
+    "soilPreference": "İyi drenajlı topraklar",
+    "temperaturePreference": "15-25 °C",
+    "wateringFrequency": "Toprak yüzeyi kurudukça",
+    "origin": "Avustralya",
+    "latinName": "Acacia dealbata",
+    "isFavorite": false
+  },
+  {
+    "name": "Prens Gülü",
+    "image": "assets/prens-gulu.jpg",
+    "description": "Gösterişli ve farklı renklerde çiçeklere sahip bir tür gül.",
+    "soilPreference": "İyi drenajlı topraklar",
+    "temperaturePreference": "18-24 °C",
+    "wateringFrequency": "Toprak yüzeyi kurudukça",
+    "origin": "Hindistan",
+    "latinName": "Rosa indica",
+    "isFavorite": false
+  },
+  {
+    "name": "Krizantem",
+    "image": "assets/krizantem.jpg",
+    "description": "Sonbahar çiçeği olarak bilinen çeşitli renklerde çiçeklere sahip bir bitki.",
+    "soilPreference": "İyi drenajlı topraklar",
+    "temperaturePreference": "15-20 °C",
+    "wateringFrequency": "Toprak yüzeyi kurudukça",
+    "origin": "Asya",
+    "latinName": "Chrysanthemum",
+    "isFavorite": false
+  }
+]
